@@ -1,0 +1,11 @@
+{
+  "name": "file-size",
+  "version": "1.0.0",
+  "description": "File Size challenge on FreeCodeCamp.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Bentley",
+  "license": "ISC"
+}
