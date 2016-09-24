@@ -1,0 +1,9 @@
+html
+  head
+    title File Size Microservice
+  body
+    p Submit a file to view its filesize (set for 1MB maximum).
+    form(action='/upload', method='post', enctype='multipart/form-data')
+        input(type='file', name='file')
+        |   
+        input(type='submit')
